@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fortune-telling/static/css/main.0752dda7.css",
+    "main.js": "/fortune-telling/static/js/main.7f3c88dd.js",
+    "static/js/787.4d32f480.chunk.js": "/fortune-telling/static/js/787.4d32f480.chunk.js",
+    "index.html": "/fortune-telling/index.html",
+    "main.0752dda7.css.map": "/fortune-telling/static/css/main.0752dda7.css.map",
+    "main.7f3c88dd.js.map": "/fortune-telling/static/js/main.7f3c88dd.js.map",
+    "787.4d32f480.chunk.js.map": "/fortune-telling/static/js/787.4d32f480.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0752dda7.css",
+    "static/js/main.7f3c88dd.js"
+  ]
+}
