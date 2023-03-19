@@ -1,0 +1,11 @@
+/* 404ページ */
+.not-found-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  text-align: center;
+}
+
+.not-found-container h1 {
+  font-size: 3rem;
+}
